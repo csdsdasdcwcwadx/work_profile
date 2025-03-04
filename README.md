@@ -32,15 +32,6 @@
 
 ---
 
-## Lion Travel Official Website
-- **Technologies Used**: React.js, jQuery, HTML, CSS, Webpack  
-- **Tools Used**: Git  
-- **Project Overview**:  
-  Developed and maintained the **official website** for **Lion Travel**, displaying various travel packages for users to browse and book.  
-- **Project Link**: [Lion Travel Official Website](https://github.com/csdsdasdcwcwadx/Lion-Travel/blob/main/README.md)  
-
----
-
 ## Restaurant Marketing Website
 - **Technologies Used**: Next.js, HTML, CSS, Webpack  
 - **Tools Used**: GitHub, GitHub Actions  
